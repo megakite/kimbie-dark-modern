@@ -1,39 +1,18 @@
-<div style='text-align: center;'>
-  <h1>Kimbie Dark+</h1>
-</div>
+# Kimbie Dark Modern
 
 [![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-orange.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
 
-A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), originally created by [Jan T. Sott](https://github.com/idleberg/Kimbie.tmTheme), modified by [Dāvis Namsons](https://github.com/dnamsons).
+A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), originally created by [Jan T. Sott](https://github.com/idleberg/Kimbie.tmTheme) and [Dāvis Namsons](https://github.com/dnamsons), modified by [Lleu Yang](https://github.com/megakite).
 
 ## Improvements
 
-- Syntax coloring improvements for Ruby/JS/Elixir/Rust/etc.
+- A modern overall looking just like the built-in “Dark Modern” theme
 - Better editor color scheme that is kind on the eyes
-- Improved UI & terminal colors
-- Support for semantic syntax highlighting
+- Extended support for semantic syntax highlighting (readonly properties, member functions, and so on)
 
-## Screenshots
+## Screenshot
 
-### React
-
-![React syntax highlighting demonstration](./images/react.png)
-
-### Ruby
-
-![Ruby syntax highlighting demonstration](./images/ruby.png)
-
-### Rust
-
-![Rust syntax highlighting demonstration](./images/rust.png)
-
-
-### Integrated terminal colors
-
-![Terminal color theme demonstration](./images/terminal.png)
+![Screenshot](./images/screenshot.png)
 
 ## Color Reference
 
@@ -42,8 +21,9 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 |                            Color                            | Usage                                                         |
 | :---------------------------------------------------------: | ------------------------------------------------------------- |
 | ![](https://via.placeholder.com/10/98676A?text=+) `#98676A` | Keywords, template literals, CSS pseudo classes and constants |
-| ![](https://via.placeholder.com/10/DC3958?text=+) `#DC3958` | Variables, tags                                               |
-| ![](https://via.placeholder.com/10/8AB1B0?text=+) `#8AB1B0` | Functions, CSS #ids, markup headings                          |
+| ![](https://via.placeholder.com/10/DC3958?text=+) `#F14A68` | (Readonly) Variables                                          |
+| ![](https://via.placeholder.com/10/8AB1B0?text=+) `#8AB1B0` | (Member) Functions, CSS #ids, markup headings                 |
+| ![](https://via.placeholder.com/10/4C96A8?text=+) `#4C96A8` | Storages, tags                                                |
 | ![](https://via.placeholder.com/10/F79A32?text=+) `#F79A32` | Constants, attributes, units, markup links                    |
 | ![](https://via.placeholder.com/10/889B4A?text=+) `#889B4A` | Strings, pseudo CSS, inherited classes                        |
 | ![](https://via.placeholder.com/10/088649?text=+) `#088649` | Embedded punctuation (e.g. `${}` or `{}` )                    |

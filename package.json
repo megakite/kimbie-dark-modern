@@ -1,10 +1,10 @@
 {
-    "name": "kimbie-dark-plus",
-    "displayName": "Kimbie Dark+",
-    "description": "Kimbie Dark improved",
-    "version": "1.3.0",
-    "author": "Dāvis Namsons",
-    "publisher": "dnamsons",
+    "name": "kimbie-dark-modern",
+    "displayName": "Kimbie Dark Modern",
+    "description": "Kimbie Dark in modern style",
+    "version": "1.0.0",
+    "author": "Lleu Yang",
+    "publisher": "megakite",
     "license": "Creative Commons Attribution-ShareAlike 4.0 Unported",
     "icon": "images/icon.png",
     "engines": {
@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kimbie Dark+",
+                "label": "Kimbie Dark Modern",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kimbie Dark+-color-theme.json"
+                "path": "./themes/Kimbie Dark Modern-color-theme.json"
             }
         ]
     },
@@ -31,10 +31,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/dnamsons/Kimbie-Dark-Plus/"
+        "url": "https://github.com/megakite/kimbie-dark-modern/"
     },
-    "homepage": "https://github.com/dnamsons/Kimbie-Dark-Plus/",
+    "homepage": "https://github.com/megakite/kimbie-dark-modern/",
     "bugs": {
-        "url": "https://github.com/dnamsons/Kimbie-Dark-Plus/issues"
+        "url": "https://github.com/megakite/kimbie-dark-modern/issues"
     }
 }
